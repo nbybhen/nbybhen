@@ -1,5 +1,4 @@
-# ExplosiveEnd
-I am the main character.
+# Henock Dinberu
 
 ![ExplosiveEnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExplosiveEnd\&rank_icon=github\&theme=maroongold)
 
