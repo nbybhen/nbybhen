@@ -2,14 +2,14 @@
 
 Hello! I'm Henock Dinberu, a recent graduate from the University of Cincinnati with a BSE in Computer Science and a minor in Mathematics.
 
-I'm currently interested in full-stack (NextJS) and mobile development (Kotlin Multiplatform).
+I'm currently learning about database development ([see mini-db](https://github.com/BBNGK/mini-db)) as well as mobile application development (using Kotlin Multiplatform).
 
-## Experiences
+## Tooling Experiences
 Here are some of the tools that I have used:
 
-- <ins>Languages</ins>: Python, TypeScript / JS, Rust, Kotlin, Go, C++
-- <ins>Frameworks & Libraries</ins>: NextJS, Kotlin + Compose Multiplatform, OneSignal
-- <ins>Databases & Technology</ins>: Supabase, Redis, Docker, Kubernetes, Oracle
+- <ins>Languages</ins>: Python, Rust, TypeScript, C++, Kotlin, Go
+- <ins>Frameworks & Libraries</ins>: NextJS, Kotlin + Compose Multiplatform, OneSignal, GraphQL, Zod
+- <ins>Databases & Technology</ins>: Docker, Kubernetes, Redis, Oracle, Supabase
 
 
 ## Extra
